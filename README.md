@@ -1,4 +1,4 @@
-This is my simple test case that i made out of curiosity.
+This is my simple test case that i made out of curiosity(Two number multiplication).
 
 The results were expected and really indicative
 
